@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashini Kaushalya</h1>
 <p>Undergraduate Student of University of ruhuna Faculty of Technology</p>
 
-- 🌱 I’m currently learning **tailwind,MYSQL**
+- 🌱 I’m currently learning **Java,React**
 
 - 📫 How to reach me **shashinikaushalya557@gmail.com**
 
