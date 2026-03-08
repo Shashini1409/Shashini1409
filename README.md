@@ -71,7 +71,7 @@
 </a> 
 
 <a href="https://ant.design/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/antdesign/antdesign-icon.svg" alt="antdesign" width="40" height="40"/> 
+<img src="[https://www.vectorlogo.zone/logos/antdesign/antdesign-icon.svg](https://medium.com/@sehrawy/ant-design-tips-and-tricks-f66259210d8c)" alt="antdesign" width="40" height="40"/> 
 </a> 
 
 </p>
